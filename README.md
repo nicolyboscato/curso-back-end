@@ -1,4 +1,4 @@
 # curso-back-end
-Repositório criado focando o curso de aprendizagem industrial em Back-End.
+<p align="center"> Repositório criado focando o curso de aprendizagem industrial em Back-End. </p>
 
-![](https://user-images.githubusercontent.com/125308172/219921933-92a840ee-c27b-43b8-b140-525409a74c61.gif)
+![close your eyes and you'll leave this dream](https://user-images.githubusercontent.com/125308172/219922815-812a9ff8-a4c7-48f9-aad9-389261879dcb.png)
